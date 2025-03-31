@@ -1,0 +1,7 @@
+font-family = Hurmit Nerd Font Mono
+font-size = 20
+
+maximize = true
+focus-follows-mouse = true
+
+shell-integration = fish
